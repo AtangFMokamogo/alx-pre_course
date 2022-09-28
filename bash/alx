@@ -1,1 +1,7 @@
-HEAD <<<
+red
+<<<<<<< HEAD
+green
+=======
+white
+>>>>>>> updat_script
+blue
